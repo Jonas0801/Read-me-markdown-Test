@@ -16,6 +16,11 @@ string myName ()=> "Jonas";
 public double Value{ get; set; }
 ```
 
+```python
+def add(a, b)
+    return a + b
+```
+
 ```sheel
 $ git clone ...
 $ cd prj_name
